@@ -1,5 +1,5 @@
 
-# Dynamics365_CRM_Study
+# Dynamics 365 CRM Study
 
 ## 📚 Estrutura do Repositório
 
@@ -20,10 +20,32 @@
 
 ---
 
-## 🗓️ Cronograma Semanal de Estudos (6 Semanas)
+## 🧭 Cronograma de Estudos (6 Semanas)
+
+### 🔹 [Semana 1: Fundamentos do Dynamics 365](#semana-1-fundamentos-do-dynamics-365)
+### 🔹 [Semana 2: JavaScript no Dynamics – Parte 1](#semana-2-javascript-no-dynamics--parte-1)
+### 🔹 [Semana 3: JavaScript no Dynamics – Parte 2](#semana-3-javascript-no-dynamics--parte-2)
+### 🔹 [Semana 4: Plugins com C# – Parte 1](#semana-4-plugins-com-c--parte-1)
+### 🔹 [Semana 5: Plugins com C# – Parte 2](#semana-5-plugins-com-c--parte-2)
+### 🔹 [Semana 6: Performance Avançada + Certificação](#semana-6-performance-avançada--certificação)
+
+---
+
+## ✅ Progresso
+
+- [ ] Semana 1: Fundamentos do Dynamics 365
+- [ ] Semana 2: JavaScript no Dynamics – Parte 1
+- [ ] Semana 3: JavaScript no Dynamics – Parte 2
+- [ ] Semana 4: Plugins com C# – Parte 1
+- [ ] Semana 5: Plugins com C# – Parte 2
+- [ ] Semana 6: Performance Avançada + Certificação
+
+---
+
+## 📅 Detalhamento do Cronograma
 
 ### Semana 1: Fundamentos do Dynamics 365
-- **Segunda:** Introdução ao Dynamics 365 (Microsoft Learn)
+- **Segunda:** Introdução ao Dynamics 365 ([Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-finance-operations/))
 - **Terça:** Entidades, relacionamentos, formulários e views
 - **Quarta:** Soluções (gerenciadas vs não gerenciadas)
 - **Quinta:** Ciclo de vida de desenvolvimento no CRM
@@ -66,9 +88,20 @@
 
 ---
 
-## ✅ Progresso
+## 📌 Links Úteis
 
-- [x] Semana 1: Fundamentos do Dynamics 365
+- [Dynamics 365 Fundamentals - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-finance-operations/)
+- [Client API Reference - Microsoft Docs](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/reference)
+- [Write a plug-in - Microsoft Docs](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/write-plug-in)
+- [Improve performance in model-driven apps - Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/maker/model-driven-apps/performance-best-practices)
+- [Curso: JavaScript for Dynamics 365 CE (Pluralsight ou Udemy)](https://www.udemy.com/course/javascript-for-dynamics-365-ce/)
+- [Curso: Dynamics 365 Plugin Development (Udemy)](https://www.udemy.com/course/dynamics-365-plugin-development/)
+
+---
+
+## 📈 Progresso Visual
+
+- [ ] Semana 1: Fundamentos do Dynamics 365
 - [ ] Semana 2: JavaScript no Dynamics – Parte 1
 - [ ] Semana 3: JavaScript no Dynamics – Parte 2
 - [ ] Semana 4: Plugins com C# – Parte 1
